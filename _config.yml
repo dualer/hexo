@@ -105,5 +105,6 @@ theme: next
 deploy:
   type: git
   repository:
-    github: https://github.com/dualer/dualer.github.io.git
+    # github: https://github.com/dualer/dualer.github.io.git
+    github: https://gitlab.com/dualer/dualer.gitlab.io.git
   branch: master
